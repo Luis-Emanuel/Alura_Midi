@@ -2,7 +2,7 @@
 <p align="center"> O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais, por enquanto de uma bateria, ao usuário clicar ou pressionar com teclado em seus botões.</p>
 
 <div align="center">
-<img width="60%"  src="https://github.com/Luis-Emanuel/Alura_Midi/blob/main/readme/img.png?raw=true"/>
+<img width="60%"  src="[https://github.com/Luis-Emanuel/Alura_Midi/blob/main/readme/img.png?raw=true](https://github.com/Luis-Emanuel/Alura_Midi/blob/main/readme/gif.gif?raw=true)"/>
 </div>	
 
 ## ✔️ Técnicas e tecnologias utilizadas
